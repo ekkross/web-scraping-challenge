@@ -1,0 +1,21 @@
+.bg-light{
+	background-color: #57CC8A !important
+}
+.nav-link.active{
+	background-color: #57CC8A !important
+}
+tr:nth-child(odd){
+	background-color: #edfcf4
+}
+.nav-pills .show>.nav-link{
+	background-color: #57CC8A !important
+}
+nav.navbar {
+  background-color: #57CC8A !important
+}
+
+@media (min-width: 768px) {
+  nav.navbar {
+    background-color: #edfcf4 !important
+  }
+}
